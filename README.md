@@ -6,6 +6,6 @@ Amount, Credit History and others. To automate this process, they have given a p
 those are eligible for loan amount so that they can specifically target these customers. .
 
 Approach- It was a binary classification problem where we had to predict whether loan should be provided to a customer or 
-not. We started with Logistic regression as it being a linear model and has less variance. Then to improve the accuracy we 
+not. We started with Logistic regression as it being a linear model and has low variance error. Then to improve the accuracy we 
 went for tree based models and good variance and bias score for xgboost.
 
